@@ -1,2 +1,5 @@
-const company = 'ACME Inc.'
-const year = 2022
+import './configuration'
+
+
+const message = '© ' + company + ' (' + year + ')'
+document.querySelector('footer').innerText = message
