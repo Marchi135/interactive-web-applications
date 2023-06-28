@@ -1,0 +1,1 @@
+import { firstName as firstName1 } from "./alex";

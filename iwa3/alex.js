@@ -1,6 +1,7 @@
-var firstName = "Alex";
-var surname = "Naidoo";
-var role = "Head of Marketing";
+export    var firstName  = "Alex";
+    var surname = "Naidoo";
+    var role = "Head of Marketing";
+ 
 
 console.log (firstName, surname, role )
 
