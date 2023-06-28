@@ -1,6 +1,6 @@
-const firstName= ('Johannes;')
-const surname= "Potgieter"
-public role = "Intern"
+const firstName= "Johannes";
+const surname= "Potgieter";
+const role = "Intern";
 
-private display= firstname + " " + surname + " (" + role + ")"
-document.querySelector('#johannes').innerText = display
+var display = firstname + " " + surname + " (" + role + ")";
+document.querySelector('#johannes').innerText = display;
