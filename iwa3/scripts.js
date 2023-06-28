@@ -1,5 +1,5 @@
-import {company, year} from './configuration';
+import {company, year} from './configuration.js';
 
 
 const message = '© ' + company + ' (' + year + ')';
-document.querySelector('disclaimer').innerText = message;
+document.querySelector('footer').innerText = message;
