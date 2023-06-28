@@ -5,5 +5,5 @@ export    var firstName  = "Alex";
 
 console.log (firstName, surname, role )
 
-var display= firstname + " " + surname + " (" + role + ")";
+var display= firstName + " " + surname + " (" + role + ")";
 document.querySelector('#alex').innerText = display
